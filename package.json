@@ -1,0 +1,23 @@
+{
+    "name": "RN-echarts",
+    "version": "0.0.1",
+    "description": "echarts from react-native component",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "kmoonpei",
+        "email": "skmxiaopei@gmail.com"
+    },
+    "keywords": [
+        "react-native",
+        "echarts",
+        "chart",
+        "charts"
+      ],
+    "license": "MIT",
+    "dependencies": {
+        "echarts": "3.2.3"
+    }
+}
